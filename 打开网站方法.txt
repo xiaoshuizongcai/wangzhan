@@ -1,0 +1,7 @@
+打开网站方法
+1、打开CMD
+2、输入F:
+3、输入cd he(cd ..回到上一页)
+4、输入set Flask_APP=wangzhan.py
+5、输入flask run
+6、打开浏览器输入网址127.0.0.1
